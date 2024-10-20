@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\.Net\asp.net\session2\bin\Debug\net8.0\session2.exe
+C:\Users\Admin\Desktop\.Net\asp.net\session2\bin\Debug\net8.0\session2.deps.json
+C:\Users\Admin\Desktop\.Net\asp.net\session2\bin\Debug\net8.0\session2.runtimeconfig.json
+C:\Users\Admin\Desktop\.Net\asp.net\session2\bin\Debug\net8.0\session2.dll
+C:\Users\Admin\Desktop\.Net\asp.net\session2\bin\Debug\net8.0\session2.pdb
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\session2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\session2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\session2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\session2.dll
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\refint\session2.dll
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\session2.pdb
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\session2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\.Net\asp.net\session2\obj\Debug\net8.0\ref\session2.dll
