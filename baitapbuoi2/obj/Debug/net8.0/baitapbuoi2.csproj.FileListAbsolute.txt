@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.exe
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.deps.json
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.runtimeconfig.json
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.dll
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\bin\Debug\net8.0\baitapbuoi2.pdb
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.dll
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\refint\baitapbuoi2.dll
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.pdb
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\baitapbuoi2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\.Net\baitapbuoi2\obj\Debug\net8.0\ref\baitapbuoi2.dll

@@ -1,0 +1,4 @@
+c:\Users\Admin\Desktop\.Net\asp.net\obj\Debug\net8.0\asp.net.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\.Net\asp.net\obj\Debug\net8.0\asp.net.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\.Net\asp.net\obj\Debug\net8.0\asp.net.AssemblyInfo.cs
+c:\Users\Admin\Desktop\.Net\asp.net\obj\Debug\net8.0\asp.net.csproj.CoreCompileInputs.cache
