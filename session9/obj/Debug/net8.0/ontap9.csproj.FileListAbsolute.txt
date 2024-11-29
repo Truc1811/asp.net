@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\.Net\ontap9\bin\Debug\net8.0\ontap9.exe
+C:\Users\Admin\Desktop\.Net\ontap9\bin\Debug\net8.0\ontap9.deps.json
+C:\Users\Admin\Desktop\.Net\ontap9\bin\Debug\net8.0\ontap9.runtimeconfig.json
+C:\Users\Admin\Desktop\.Net\ontap9\bin\Debug\net8.0\ontap9.dll
+C:\Users\Admin\Desktop\.Net\ontap9\bin\Debug\net8.0\ontap9.pdb
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\ontap9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\ontap9.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\ontap9.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\ontap9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\ontap9.dll
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\refint\ontap9.dll
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\ontap9.pdb
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\ontap9.genruntimeconfig.cache
+C:\Users\Admin\Desktop\.Net\ontap9\obj\Debug\net8.0\ref\ontap9.dll
