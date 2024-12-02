@@ -1,0 +1,27 @@
+[
+  {
+    "studentId": "001",
+    "studentName": "truc",
+    "age": 31
+  },
+  {
+    "studentId": "002",
+    "studentName": "thu",
+    "age": 34
+  },
+  {
+    "studentId": "003",
+    "studentName": "ngan",
+    "age": 3
+  },
+  {
+    "studentId": "001",
+    "studentName": "truc",
+    "age": 21
+  },
+  {
+    "studentId": "002",
+    "studentName": "ngan",
+    "age": 23
+  }
+]
