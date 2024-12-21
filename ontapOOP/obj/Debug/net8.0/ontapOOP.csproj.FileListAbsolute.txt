@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\bin\Debug\net8.0\ontapOOP.exe
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\bin\Debug\net8.0\ontapOOP.deps.json
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\bin\Debug\net8.0\ontapOOP.runtimeconfig.json
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\bin\Debug\net8.0\ontapOOP.dll
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\bin\Debug\net8.0\ontapOOP.pdb
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ontapOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ontapOOP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ontapOOP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ontapOOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ontapOOP.sourcelink.json
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ontapOOP.dll
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\refint\ontapOOP.dll
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ontapOOP.pdb
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ontapOOP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\truc\asp.net\ontapOOP\obj\Debug\net8.0\ref\ontapOOP.dll
